@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>deBubblr - Pop that Filter Bubble!</title>
+
+    <script  src="./js/jquery-3.3.1.min.js"></script> 
+    <script src="./js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" href="./css/jquery.dataTables.min.css" />
+    <script src="./js/Chart.js"></script>
+    <link rel="stylesheet" href="./css/Chart.css" type="text/css"/>
+    <link rel="stylesheet" href="./css/style.css" type="text/css">
+    <script src="./js/whitelistscores.js"></script> 
+    <script src="./js/recommender.js"></script> 
+    
+</head>
+<body>
+    <div id="container">
+        <div class="grid-container">
+            <div class="canvas-holder a">
+                <table id="history-chart" class="display" width="100%"></table>
+            </div>
+            <div class="canvas-holder b">
+                <canvas id="pieChart"></canvas>
+            </div>
+            <div class="canvas-holder c">   
+                <form id="get-date-range" action="#">
+                    <select class="select" id="history-range">
+                      <option value="currentweek" class="lang" id="currentweek">Current Week</option>
+                      <option value="recentweek" class="lang"  id="recentweek">Previous Week</option>
+                      <option value="recentmonth" class="lang"  id="recentmonth">Last Month</option>
+                      <option value="allhistory" class="lang" id="allhistory">All-time</option>
+                    </select>
+                  </form>
+    
+            </div>
+        </div>
+	
+        <div class="modal-container main">
+            <div class="modal-content">
+                <!--
+                <p>Not enough browsing history to analyze. Please keep on browsing and check back again in 7 days.</p>
+                <p>
+
+                <p>Your news consumption the past 7 days has been very balanced! Keep up the good work!
+                </p>
+                -->
+                <p>The past 7 days,  ___% of the articles you read are from ____________ sites.
+                </p>
+            
+            </div>
+            <div class="modal-bottom">
+                <section>
+                    <div class="button-wrapper">
+                        <!--
+                        <input type="button" class="modal-button button-none" value="Nothing to Pop!">
+                        -->
+                        <input type="button" class="modal-button button-pop" value="Pop that Bubble!" id="loadUrl">
+                    </div>
+                    <div class="wave wave-bg1"></div>
+                    <div class="wave wave-bg2"></div>
+                    <div class="wave wave-bg3"></div>
+                </section>
+            </div>
+        </div>
+    </div> 
+</body>
+
+<script  src="./js/background.js"></script>
+</html>

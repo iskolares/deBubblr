@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>deBubblr - Pop that Filter Bubble!</title>
+
+    <script  src="./js/jquery-3.3.1.min.js"></script> 
+    <script src="./js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" href="./css/jquery.dataTables.min.css" />
+    <script src="./js/Chart.js"></script>
+    <script src="./js/chartjs-plugin-datalabels.min.js"></script>
+    <link rel="stylesheet" href="./css/Chart.css" type="text/css"/>
+    <link rel="stylesheet" href="./css/style.css" type="text/css">
+    <script src="./js/whitelistscores.js"></script> 
+    
+</head>
+<body>
+    <div id="main-container">
+        <div class="wrapper">
+            <div class="box header"><img src="./images/logo.png"></div>
+            <div class="box sidebar">
+                <div class="canvas-holder a">
+                    <!-- <div id="dynamic-tabs">
+                        <ul>
+                            <li class="tabs" data-source="customers.json" data-table="customers-table"><a href="#tab-domains">Customers</a>
+                            </li>
+                            <li class="tabs" data-source="orders.json" data-table="orders-table"><a href="#tab-URLs">Orders</a>
+                            </li>
+                            <li class="tabs" data-source="invoices.json" data-table="invoices-table"><a href="#tab-alignment">Invoices</a>
+                            </li>
+                        </ul> -->
+                        <div id="tab-topdomains">
+                            <table id="history-chart" class="display" width="100%"></table>
+                        </div>
+                        <div id="tab-topURLs">
+                            <table id="URL-chart" class="display" width="100%"></table>
+                        </div>
+                        <div id="align-breakdown">
+                            <table id="alignment-chart" class="display" width="100%"></table>
+                        </div>
+                    <!-- </div> -->
+                    <form id="get-date-range" action="#">
+                        <label>Select Interval:</label>
+                        <select class="history-range-class" id="history-range">
+                        <option value="currentweek" id="currentweek" selected="selected">Current Week</option>
+                        <option value="recentweek" id="recentweek">Previous Week</option>
+                        <option value="recentmonth" id="recentmonth">Last Month</option>
+                        <option value="allhistory" id="allhistory">All-time</option>
+                        </select>
+                    </form>
+                </div>
+            </div>
+            <div class="box content">
+                <div class="canvas-holder b">
+                    <canvas id="pieChart"></canvas>
+                    
+                </div>
+            </div>
+            <div class="box footer">
+                <div class="modal-content">
+                    <div class="footer-child">
+                        <p id='deBubblr-message'></p>  
+                        <div class="modal-bottom">
+
+                                <div class="button-wrapper">
+                                    <!--
+                                    <input type="button" class="modal-button button-none" value="Nothing to Pop!">
+                                    -->
+                                    <input type="button" class="modal-button button-pop" value="Pop that Bubble!" id="loadUrl">
+                                </div>
+
+                        </div>
+                    </div>
+                    <div class="footer-child">
+                        <p style="text-align: right; color: #ffffff; font-weight: 400; font-size: 12px; font-style: italic;">
+                            deBubblr analyses your web browsing history from a set of whitelisted websites to determine your leaning, then it suggests websites from the other sites to
+                            diversify the news you are consuming.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script  src="./js/background.js"></script>
+<script src="./js/recommender.js"></script> 
+</html>

@@ -1,0 +1,140 @@
+*{
+    padding: :0;
+    margin 0;
+}
+html,body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    margin: 0;
+    width: 283px;
+    box-sizing: border-box;
+}
+body {
+    background: #FFFFFF;
+    border: 2px solid rgba(9, 145, 213, 0.38);
+}
+.modal-content {
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 20px 0;
+    color: #034D72;
+}
+.modal-bottom {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+/*** Buttons ***/
+.button-wrapper{
+    z-index: 999;
+    position: relative;
+    top: 20px;
+}
+.modal-button{
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.button-none{
+    background: #BFC3C5;
+    border: 1px solid rgba(3, 77, 114, 0.5);
+}
+.button-pop{
+    background: #0991D5;
+    border: 1px solid rgba(3, 77, 114, 0.5);
+}
+
+.button-pop:hover{
+    background: #005e90;
+    border: 1px solid #ffffff;
+}
+.reset-bubble{
+    font-size: 10px;
+    line-height: 10px;
+    text-align: center;
+    color: #0991D5;
+    display: block;
+    clear: both;
+    margin: 5px;
+}
+.reset-bubble a, a:visited{
+    color: #12ACFA;
+    text-decoration: none;
+    font-style: italic;
+}
+.reset-bubble a:hover{
+    text-decoration: underline;
+    font-style: normal;
+}
+.button-text{
+    line-height: 17px;
+}
+
+/*** WAVE Backgrounds***/
+.modal-bottom .wave{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    background: url(images/waves-bg.png);
+    background-size: 180px 80px;
+    background-position: bottom center;
+}
+
+section .wave.wave-bg1{
+    -webkit-animation: animate 15s linear infinite;
+    z-index: 900;
+    opacity: 1;
+    animation-delay: 0s;
+    bottom: 0;
+}
+section .wave.wave-bg2{
+    -webkit-animation: animate2 5s linear infinite;
+    z-index: 989;
+    opacity: 0.5;
+    animation-delay: -10s;
+    bottom: 5px;
+}
+section .wave.wave-bg3{
+    -webkit-animation: animate3 10s linear infinite;
+    z-index: 988;
+    opacity: .2;
+    animation-delay: -5s;
+    bottom: 10px;
+}
+
+@-webkit-keyframes animate{
+    0%{
+        background-position-x:0;
+    }
+    100%{
+        background-position-x: 180px;
+    }
+}
+@-webkit-keyframes animate2{
+    0%{
+        background-position-x:180px;
+    }
+    100%{
+        background-position-x: 0;
+    }
+}
+@-webkit-keyframes animate3{
+    0%{
+        background-position-x:0;
+    }
+    100%{
+        background-position-x: -180px;
+    }
+}
+
