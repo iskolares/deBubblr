@@ -14,7 +14,6 @@
     <link rel="stylesheet" href="./css/Chart.css" type="text/css"/>
     <link rel="stylesheet" href="./css/style.css" type="text/css">
     <script src="./js/whitelistscores.js"></script> 
-    
 </head>
 <body>
     <div id="main-container">
@@ -22,34 +21,23 @@
             <div class="box header"><img src="./images/logo.png"></div>
             <div class="box sidebar">
                 <div class="canvas-holder a">
-                    <!-- <div id="dynamic-tabs">
-                        <ul>
-                            <li class="tabs" data-source="customers.json" data-table="customers-table"><a href="#tab-domains">Customers</a>
-                            </li>
-                            <li class="tabs" data-source="orders.json" data-table="orders-table"><a href="#tab-URLs">Orders</a>
-                            </li>
-                            <li class="tabs" data-source="invoices.json" data-table="invoices-table"><a href="#tab-alignment">Invoices</a>
-                            </li>
-                        </ul> -->
-                        <div id="tab-topdomains">
-                            <table id="history-chart" class="display" width="100%"></table>
-                        </div>
-                        <div id="tab-topURLs">
-                            <table id="URL-chart" class="display" width="100%"></table>
-                        </div>
-                        <div id="align-breakdown">
-                            <table id="alignment-chart" class="display" width="100%"></table>
-                        </div>
-                    <!-- </div> -->
-                    <form id="get-date-range" action="#">
-                        <label>Select Interval:</label>
+                    <div id="tab-topdomains">
+                        <table id="history-chart" class="display" width="100%"></table>
+                    </div>
+                    <div id="tab-topURLs">
+                        <table id="URL-chart" class="display" width="100%"></table>
+                    </div>
+                    <div id="align-breakdown">
+                        <table id="alignment-chart" class="display" width="100%"></table>
+                    </div>
+
+                    <label>Select Interval:</label>
                         <select class="history-range-class" id="history-range">
-                        <option value="currentweek" id="currentweek" selected="selected">Current Week</option>
-                        <option value="recentweek" id="recentweek">Previous Week</option>
-                        <option value="recentmonth" id="recentmonth">Last Month</option>
-                        <option value="allhistory" id="allhistory">All-time</option>
-                        </select>
-                    </form>
+                        <option value="7" id="currentweek">Current Week</option>
+                        <option value="30" id="recentmonth">Last 30 days</option>
+                        <option value="90" id="allhistory">Last 90 days</option>
+                    </select>
+
                 </div>
             </div>
             <div class="box content">
@@ -63,20 +51,15 @@
                     <div class="footer-child">
                         <p id='deBubblr-message'></p>  
                         <div class="modal-bottom">
-
-                                <div class="button-wrapper">
-                                    <!--
-                                    <input type="button" class="modal-button button-none" value="Nothing to Pop!">
-                                    -->
-                                    <input type="button" class="modal-button button-pop" value="Pop that Bubble!" id="loadUrl">
-                                </div>
-
+                            <div class="button-wrapper">
+                                <span id="modal-button"></span>
+                            </div>
                         </div>
                     </div>
                     <div class="footer-child">
                         <p style="text-align: right; color: #ffffff; font-weight: 400; font-size: 12px; font-style: italic;">
-                            deBubblr analyses your web browsing history from a set of whitelisted websites to determine your leaning, then it suggests websites from the other sites to
-                            diversify the news you are consuming.
+                                deBubblr analyses your web browsing history from a set of whitelisted websites to determine the biases of your past news consumption, then it suggests websites from the other sites to
+                                diversify the news you are consuming.
                         </p>
                     </div>
                 </div>
@@ -87,4 +70,4 @@
 
 <script  src="./js/background.js"></script>
 <script src="./js/recommender.js"></script> 
-</html>
+</html> 

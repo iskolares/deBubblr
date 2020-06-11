@@ -53,7 +53,7 @@ var URLscoreArray = [
   },
   {
     url: "972mag.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "9news.com",
@@ -73,7 +73,7 @@ var URLscoreArray = [
   },
   {
     url: "aarp.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "aawsat.com",
@@ -81,7 +81,7 @@ var URLscoreArray = [
   },
   {
     url: "abc.net.au",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "abc11.com",
@@ -97,11 +97,11 @@ var URLscoreArray = [
   },
   {
     url: "abc7chicago.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "abcnews.go.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "abort73.com",
@@ -109,7 +109,7 @@ var URLscoreArray = [
   },
   {
     url: "abovethelaw.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "abqjournal.com",
@@ -145,7 +145,7 @@ var URLscoreArray = [
   },
   {
     url: "act.weareultraviolet.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "acting-man.com",
@@ -169,11 +169,11 @@ var URLscoreArray = [
   },
   {
     url: "adl.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "adn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "advocate.com",
@@ -189,11 +189,11 @@ var URLscoreArray = [
   },
   {
     url: "aeon.co",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "affinitymagazine.us",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "afj.org",
@@ -213,7 +213,7 @@ var URLscoreArray = [
   },
   {
     url: "africanarguments.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "africanews.com",
@@ -237,7 +237,7 @@ var URLscoreArray = [
   },
   {
     url: "ahvalnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "aidc.org.za",
@@ -265,7 +265,7 @@ var URLscoreArray = [
   },
   {
     url: "ajc.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ajplus.net",
@@ -277,11 +277,11 @@ var URLscoreArray = [
   },
   {
     url: "al-monitor.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "al-sura.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "al.com",
@@ -293,7 +293,7 @@ var URLscoreArray = [
   },
   {
     url: "alaraby.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "albanyherald.com",
@@ -305,7 +305,7 @@ var URLscoreArray = [
   },
   {
     url: "albertaviews.ca",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "albionpleiad.com",
@@ -337,7 +337,7 @@ var URLscoreArray = [
   },
   {
     url: "aljazeera.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "allafrica.com",
@@ -353,15 +353,15 @@ var URLscoreArray = [
   },
   {
     url: "allgov.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "alliedprogress.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "almasdarnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "alreporter.com",
@@ -392,16 +392,12 @@ var URLscoreArray = [
     alignment: "CENTER"
   },
   {
-    url: "amazon.com",
-    alignment: "CENTER"
-  },
-  {
     url: "america.aljazeera.com",
     alignment: "LEFT"
   },
   {
     url: "america.cgtn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "americablog.com",
@@ -409,7 +405,7 @@ var URLscoreArray = [
   },
   {
     url: "americamagazine.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "americanactionforum.org",
@@ -437,7 +433,7 @@ var URLscoreArray = [
   },
   {
     url: "americanimmigrationcouncil.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "americanindependent.com",
@@ -477,7 +473,7 @@ var URLscoreArray = [
   },
   {
     url: "americanprogress.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "americansforprosperity.org",
@@ -521,11 +517,11 @@ var URLscoreArray = [
   },
   {
     url: "amnesty.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "amny.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "amsterdamnews.com",
@@ -545,11 +541,11 @@ var URLscoreArray = [
   },
   {
     url: "annistonstar.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "anonhq.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ansa.it",
@@ -557,7 +553,7 @@ var URLscoreArray = [
   },
   {
     url: "anthropocenemagazine.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "antifascistnews.net",
@@ -573,11 +569,11 @@ var URLscoreArray = [
   },
   {
     url: "ap.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "apmreports.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "apnews.com",
@@ -589,7 +585,7 @@ var URLscoreArray = [
   },
   {
     url: "app.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "aptnnews.ca",
@@ -613,7 +609,7 @@ var URLscoreArray = [
   },
   {
     url: "areomagazine.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "argusleader.com",
@@ -629,11 +625,11 @@ var URLscoreArray = [
   },
   {
     url: "arktimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "armscontrol.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "armstrongeconomics.com",
@@ -649,7 +645,7 @@ var URLscoreArray = [
   },
   {
     url: "asahi.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "asia.nikkei.com",
@@ -661,7 +657,7 @@ var URLscoreArray = [
   },
   {
     url: "asiasentinel.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "atimes.com",
@@ -669,7 +665,7 @@ var URLscoreArray = [
   },
   {
     url: "atlantablackstar.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "atlanticcouncil.org",
@@ -677,7 +673,7 @@ var URLscoreArray = [
   },
   {
     url: "atlanticmedia.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "atlasnetwork.org",
@@ -697,7 +693,7 @@ var URLscoreArray = [
   },
   {
     url: "attn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "au.org",
@@ -713,7 +709,7 @@ var URLscoreArray = [
   },
   {
     url: "austindailyherald.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "autostraddle.com",
@@ -721,7 +717,7 @@ var URLscoreArray = [
   },
   {
     url: "avclub.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "axiomnewsnetwork.com",
@@ -729,7 +725,7 @@ var URLscoreArray = [
   },
   {
     url: "axios.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "azcapitoltimes.com",
@@ -737,11 +733,11 @@ var URLscoreArray = [
   },
   {
     url: "azcentral.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "azdailysun.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "azfamily.com",
@@ -749,7 +745,7 @@ var URLscoreArray = [
   },
   {
     url: "backchannel.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "badgerinstitute.org",
@@ -757,7 +753,7 @@ var URLscoreArray = [
   },
   {
     url: "balkaninsight.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ballotpedia.org",
@@ -765,7 +761,7 @@ var URLscoreArray = [
   },
   {
     url: "baltimoresun.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bangkokpost.com",
@@ -777,7 +773,7 @@ var URLscoreArray = [
   },
   {
     url: "baptistnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "barackobama.com",
@@ -789,7 +785,7 @@ var URLscoreArray = [
   },
   {
     url: "barnstablepatriot.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "barrons.com",
@@ -801,11 +797,11 @@ var URLscoreArray = [
   },
   {
     url: "battlecreekenquirer.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "battleforthenet.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "baxterbulletin.com",
@@ -817,15 +813,15 @@ var URLscoreArray = [
   },
   {
     url: "bbc.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bbc.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "beaconjournal.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bearingarms.com",
@@ -853,15 +849,15 @@ var URLscoreArray = [
   },
   {
     url: "bellinghamherald.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "berkeleyside.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "berkshireeagle.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "berlingske.dk",
@@ -873,11 +869,11 @@ var URLscoreArray = [
   },
   {
     url: "bgdailynews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bgr.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bignewsnetwork.com",
@@ -897,11 +893,7 @@ var URLscoreArray = [
   },
   {
     url: "billmoyers.com",
-    alignment: "CENTER-LEFT",
-  },
-  {
-    url: "bing.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bipartisanpolicy.org",
@@ -909,7 +901,7 @@ var URLscoreArray = [
   },
   {
     url: "birminghammail.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bismarcktribune.com",
@@ -949,7 +941,7 @@ var URLscoreArray = [
   },
   {
     url: "bloomberg.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "blue-route.org",
@@ -977,15 +969,15 @@ var URLscoreArray = [
   },
   {
     url: "boston.cbslocal.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "Boston.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bostonglobe.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bostonherald.com",
@@ -1013,7 +1005,7 @@ var URLscoreArray = [
   },
   {
     url: "bramptonguardian.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "breakingdefense.com",
@@ -1041,11 +1033,11 @@ var URLscoreArray = [
   },
   {
     url: "brookings.edu",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "brownsvilleherald.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "brucebraley.com",
@@ -1057,11 +1049,11 @@ var URLscoreArray = [
   },
   {
     url: "budapestbeacon.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "buffalonews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bullshido.net",
@@ -1077,7 +1069,7 @@ var URLscoreArray = [
   },
   {
     url: "businessinsider.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "businesslive.co.za",
@@ -1085,7 +1077,7 @@ var URLscoreArray = [
   },
   {
     url: "businessweek.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "bust.com",
@@ -1093,11 +1085,11 @@ var URLscoreArray = [
   },
   {
     url: "bustle.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "buzzfeed.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "buzzfeednews.com",
@@ -1109,7 +1101,7 @@ var URLscoreArray = [
   },
   {
     url: "c4ads.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "c4ss.org",
@@ -1121,7 +1113,7 @@ var URLscoreArray = [
   },
   {
     url: "cadizrecord.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "caintv.com",
@@ -1141,7 +1133,7 @@ var URLscoreArray = [
   },
   {
     url: "caller.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "calmatters.org",
@@ -1169,7 +1161,7 @@ var URLscoreArray = [
   },
   {
     url: "canadalandshow.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "canadiandimension.com",
@@ -1177,7 +1169,7 @@ var URLscoreArray = [
   },
   {
     url: "canadians.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "canyoncountryzephyr.com",
@@ -1193,7 +1185,7 @@ var URLscoreArray = [
   },
   {
     url: "capitalgazette.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "capitalisminstitute.org",
@@ -1229,7 +1221,7 @@ var URLscoreArray = [
   },
   {
     url: "caribbeanlifenews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "carnegieendowment.org",
@@ -1237,7 +1229,7 @@ var URLscoreArray = [
   },
   {
     url: "carolinapublicpress.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "castanet.net",
@@ -1245,7 +1237,7 @@ var URLscoreArray = [
   },
   {
     url: "catchnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "catholicnewsagency.com",
@@ -1257,7 +1249,7 @@ var URLscoreArray = [
   },
   {
     url: "cbc.ca",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cbn.com",
@@ -1269,7 +1261,7 @@ var URLscoreArray = [
   },
   {
     url: "cbpp.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cbs12.com",
@@ -1277,7 +1269,7 @@ var URLscoreArray = [
   },
   {
     url: "cbsnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cc.org",
@@ -1289,7 +1281,7 @@ var URLscoreArray = [
   },
   {
     url: "cctv-america.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cdt.org",
@@ -1305,15 +1297,15 @@ var URLscoreArray = [
   },
   {
     url: "centralkynews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "centre-view.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cepr.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cfr.org",
@@ -1325,15 +1317,15 @@ var URLscoreArray = [
   },
   {
     url: "cgdev.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "change.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "channel4.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "charismanews.com",
@@ -1345,7 +1337,7 @@ var URLscoreArray = [
   },
   {
     url: "charlotteobserver.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "checkyourfact.com",
@@ -1353,7 +1345,7 @@ var URLscoreArray = [
   },
   {
     url: "cheddar.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "chicago.cbslocal.com",
@@ -1361,7 +1353,7 @@ var URLscoreArray = [
   },
   {
     url: "chicago.suntimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "chicagoreader.com",
@@ -1369,7 +1361,7 @@ var URLscoreArray = [
   },
   {
     url: "chicagoreporter.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "chicagotribune.com",
@@ -1413,7 +1405,7 @@ var URLscoreArray = [
   },
   {
     url: "chron.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "chronicle.augusta.com",
@@ -1437,11 +1429,11 @@ var URLscoreArray = [
   },
   {
     url: "ciponline.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "citizen-times.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "citizen.co.za",
@@ -1449,7 +1441,7 @@ var URLscoreArray = [
   },
   {
     url: "citizen.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "citizencritics.org",
@@ -1461,7 +1453,7 @@ var URLscoreArray = [
   },
   {
     url: "citizensforethics.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "citizensunited.org",
@@ -1469,7 +1461,7 @@ var URLscoreArray = [
   },
   {
     url: "citizentruth.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "city-journal.org",
@@ -1481,11 +1473,11 @@ var URLscoreArray = [
   },
   {
     url: "Citylab.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "citypages.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "citypaper.com",
@@ -1493,7 +1485,7 @@ var URLscoreArray = [
   },
   {
     url: "civilbeat.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "civilpolitics.org",
@@ -1521,11 +1513,11 @@ var URLscoreArray = [
   },
   {
     url: "cleantechnica.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cleveland.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "click2houston.com",
@@ -1541,7 +1533,7 @@ var URLscoreArray = [
   },
   {
     url: "cnas.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cnbc.com",
@@ -1553,7 +1545,7 @@ var URLscoreArray = [
   },
   {
     url: "cnn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "cnsnews.com",
@@ -1564,7 +1556,7 @@ var URLscoreArray = [
     alignment: "LEFT"
   },
   {
-    url: "colddeadhands.us",
+    url: "cdh2a.com",
     alignment: "RIGHT"
   },
   {
@@ -1573,7 +1565,7 @@ var URLscoreArray = [
   },
   {
     url: "colombiareports.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "columbiadailyherald.com",
@@ -1597,11 +1589,11 @@ var URLscoreArray = [
   },
   {
     url: "commercialappeal.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "commoncause.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "commondreams.org",
@@ -1609,11 +1601,11 @@ var URLscoreArray = [
   },
   {
     url: "commonwealmagazine.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "commonwealthfund.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "concordmonitor.com",
@@ -1673,11 +1665,11 @@ var URLscoreArray = [
   },
   {
     url: "consortiumnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "constitutionproject.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "consumerist.com",
@@ -1709,7 +1701,7 @@ var URLscoreArray = [
   },
   {
     url: "councilforthenationalinterest.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "countable.us",
@@ -1717,11 +1709,11 @@ var URLscoreArray = [
   },
   {
     url: "countercurrentnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "countercurrents.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "counterpunch.org",
@@ -1733,7 +1725,7 @@ var URLscoreArray = [
   },
   {
     url: "courier-journal.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "courier-tribune.com",
@@ -1765,7 +1757,7 @@ var URLscoreArray = [
   },
   {
     url: "credoaction.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "crf.org",
@@ -1789,7 +1781,7 @@ var URLscoreArray = [
   },
   {
     url: "crisisgroup.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "crisismagazine.com",
@@ -1805,7 +1797,7 @@ var URLscoreArray = [
   },
   {
     url: "crosscut.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "crowdpac.com",
@@ -1825,15 +1817,15 @@ var URLscoreArray = [
   },
   {
     url: "ctj.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ctmirror.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ctpost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ctvnews.ca",
@@ -1897,15 +1889,15 @@ var URLscoreArray = [
   },
   {
     url: "dailyclimate.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dailycurrant.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dailydot.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dailygazette.com",
@@ -1917,7 +1909,7 @@ var URLscoreArray = [
   },
   {
     url: "dailyhive.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dailyjournalonline.com",
@@ -1985,11 +1977,11 @@ var URLscoreArray = [
   },
   {
     url: "dailytargum.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dailytarheel.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dailytelegraph.com.au",
@@ -2017,7 +2009,7 @@ var URLscoreArray = [
   },
   {
     url: "dawn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "daytondailynews.com",
@@ -2041,7 +2033,7 @@ var URLscoreArray = [
   },
   {
     url: "dcreport.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dcstatesman.com",
@@ -2053,7 +2045,7 @@ var URLscoreArray = [
   },
   {
     url: "deadline.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "deadspin.com",
@@ -2073,7 +2065,7 @@ var URLscoreArray = [
   },
   {
     url: "debunkingdenialism.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "deccanchronicle.com",
@@ -2081,7 +2073,7 @@ var URLscoreArray = [
   },
   {
     url: "deccanherald.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "deepsouthvoice.com",
@@ -2109,11 +2101,11 @@ var URLscoreArray = [
   },
   {
     url: "delawareonline.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "delcotimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "delrionewsherald.com",
@@ -2121,7 +2113,7 @@ var URLscoreArray = [
   },
   {
     url: "democracy21.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "democracychronicles.org",
@@ -2137,7 +2129,7 @@ var URLscoreArray = [
   },
   {
     url: "democratandchronicle.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "democratherald.com",
@@ -2153,7 +2145,7 @@ var URLscoreArray = [
   },
   {
     url: "demos.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dentonrc.com",
@@ -2161,7 +2153,7 @@ var URLscoreArray = [
   },
   {
     url: "denverpost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "deseretnews.com",
@@ -2193,7 +2185,7 @@ var URLscoreArray = [
   },
   {
     url: "digg.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "digitaljournal.com",
@@ -2209,7 +2201,7 @@ var URLscoreArray = [
   },
   {
     url: "diply.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dispatch.com",
@@ -2221,7 +2213,7 @@ var URLscoreArray = [
   },
   {
     url: "diversityinc.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dmlnews.com",
@@ -2269,15 +2261,15 @@ var URLscoreArray = [
   },
   {
     url: "dutchdailynews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dutchreview.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dw.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "dworkinreport.com",
@@ -2297,7 +2289,7 @@ var URLscoreArray = [
   },
   {
     url: "earth.columbia.edu",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "earthfirstjournal.org",
@@ -2305,15 +2297,15 @@ var URLscoreArray = [
   },
   {
     url: "earthjustice.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "earthweareone.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "eastbaytimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ebar.com",
@@ -2321,11 +2313,11 @@ var URLscoreArray = [
   },
   {
     url: "ecfr.eu",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "econofact.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "economicpolicyjournal.com",
@@ -2333,15 +2325,15 @@ var URLscoreArray = [
   },
   {
     url: "economicshelp.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "economictimes.indiatimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "economist.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ecowatch.com",
@@ -2349,7 +2341,7 @@ var URLscoreArray = [
   },
   {
     url: "edf.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "edition.cnn.com",
@@ -2369,7 +2361,7 @@ var URLscoreArray = [
   },
   {
     url: "eff.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "egbertowillies.com",
@@ -2377,7 +2369,7 @@ var URLscoreArray = [
   },
   {
     url: "egyptianstreets.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "egypttoday.com",
@@ -2413,15 +2405,15 @@ var URLscoreArray = [
   },
   {
     url: "elpais.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "elpasotimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "emirates247.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "empirenews.net",
@@ -2429,7 +2421,7 @@ var URLscoreArray = [
   },
   {
     url: "emptywheel.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "en.bbarta24.net",
@@ -2469,7 +2461,7 @@ var URLscoreArray = [
   },
   {
     url: "engadget.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "english.ahram.org.eg",
@@ -2481,7 +2473,7 @@ var URLscoreArray = [
   },
   {
     url: "epi.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "epnewsleader.com",
@@ -2505,11 +2497,11 @@ var URLscoreArray = [
   },
   {
     url: "euobserver.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "euractiv.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "eurasiagroup.net",
@@ -2525,7 +2517,7 @@ var URLscoreArray = [
   },
   {
     url: "euromaidanpress.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "euronews.com",
@@ -2545,11 +2537,11 @@ var URLscoreArray = [
   },
   {
     url: "ew.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "exposingtruth.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "express.co.uk",
@@ -2573,7 +2565,7 @@ var URLscoreArray = [
   },
   {
     url: "factmyth.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "factsandlogic.org",
@@ -2589,7 +2581,7 @@ var URLscoreArray = [
   },
   {
     url: "fair.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "fairobserver.com",
@@ -2597,7 +2589,7 @@ var URLscoreArray = [
   },
   {
     url: "fairvote.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "faithfamilyamerica.com",
@@ -2621,11 +2613,11 @@ var URLscoreArray = [
   },
   {
     url: "fas.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "fastcompany.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "fbherald.com",
@@ -2661,7 +2653,7 @@ var URLscoreArray = [
   },
   {
     url: "feministfrequency.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "feministing.com",
@@ -2681,7 +2673,7 @@ var URLscoreArray = [
   },
   {
     url: "fightforthefuture.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "fightpp.org",
@@ -2689,7 +2681,7 @@ var URLscoreArray = [
   },
   {
     url: "filmingcops.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "finance.yahoo.com",
@@ -2741,11 +2733,11 @@ var URLscoreArray = [
   },
   {
     url: "fivethirtyeight.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "focustaiwan.tw",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "followthemoney.org",
@@ -2757,7 +2749,7 @@ var URLscoreArray = [
   },
   {
     url: "fooddemocracynow.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "forbes.com",
@@ -2789,7 +2781,7 @@ var URLscoreArray = [
   },
   {
     url: "forward.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "forwardprogressives.com",
@@ -2813,7 +2805,7 @@ var URLscoreArray = [
   },
   {
     url: "fox2detroit.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "fox2now.com",
@@ -2821,7 +2813,7 @@ var URLscoreArray = [
   },
   {
     url: "fox32chicago.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "fox35orlando.com",
@@ -2857,7 +2849,7 @@ var URLscoreArray = [
   },
   {
     url: "foxbaltimore.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "foxbusiness.com",
@@ -2877,7 +2869,7 @@ var URLscoreArray = [
   },
   {
     url: "fpif.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "fpri.org",
@@ -2889,7 +2881,7 @@ var URLscoreArray = [
   },
   {
     url: "francetvinfo.fr",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "fraserinstitute.org",
@@ -2937,7 +2929,7 @@ var URLscoreArray = [
   },
   {
     url: "freep.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "freepress.org",
@@ -2961,7 +2953,7 @@ var URLscoreArray = [
   },
   {
     url: "fresnobee.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "frnewsreport.com",
@@ -2989,7 +2981,7 @@ var URLscoreArray = [
   },
   {
     url: "fusion.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "futureinamerica.com",
@@ -2997,7 +2989,7 @@ var URLscoreArray = [
   },
   {
     url: "fwweekly.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "g-a-i.org",
@@ -3021,7 +3013,7 @@ var URLscoreArray = [
   },
   {
     url: "gaystarnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "gazette.com",
@@ -3029,7 +3021,7 @@ var URLscoreArray = [
   },
   {
     url: "gazettenet.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "gbtimes.com",
@@ -3053,11 +3045,11 @@ var URLscoreArray = [
   },
   {
     url: "gizmodo.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "glamour.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "glennbeck.com",
@@ -3065,7 +3057,7 @@ var URLscoreArray = [
   },
   {
     url: "globalcitizen.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "globalgrind.com",
@@ -3077,7 +3069,7 @@ var URLscoreArray = [
   },
   {
     url: "globalnews.ca",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "globalresearch.ca",
@@ -3085,7 +3077,7 @@ var URLscoreArray = [
   },
   {
     url: "globalriskinsights.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "globalslaveryindex.org",
@@ -3093,7 +3085,7 @@ var URLscoreArray = [
   },
   {
     url: "globaltimes.cn",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "globalvoices.org",
@@ -3133,15 +3125,15 @@ var URLscoreArray = [
   },
   {
     url: "gothamist.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "governing.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "govexec.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "govtrack.us",
@@ -3169,11 +3161,11 @@ var URLscoreArray = [
   },
   {
     url: "greensboro.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "greentechmedia.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "greenvillegazette.com",
@@ -3185,7 +3177,7 @@ var URLscoreArray = [
   },
   {
     url: "grist.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "group30.org",
@@ -3213,15 +3205,15 @@ var URLscoreArray = [
   },
   {
     url: "gunviolencearchive.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "guttmacher.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "haaretz.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hamptonroadsmessenger.com",
@@ -3237,11 +3229,11 @@ var URLscoreArray = [
   },
   {
     url: "harpers.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "harvardpolitics.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hastingstribune.com",
@@ -3253,11 +3245,11 @@ var URLscoreArray = [
   },
   {
     url: "hbswk.hbs.edu",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hcn.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "headlinepolitics.com",
@@ -3265,11 +3257,11 @@ var URLscoreArray = [
   },
   {
     url: "health.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "healthcare.gov",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "healthcarefinancenews.com",
@@ -3281,7 +3273,7 @@ var URLscoreArray = [
   },
   {
     url: "healthyway.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "heatst.com",
@@ -3289,7 +3281,7 @@ var URLscoreArray = [
   },
   {
     url: "heavy.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "helenair.com",
@@ -3297,15 +3289,15 @@ var URLscoreArray = [
   },
   {
     url: "helsinkitimes.fi",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "helvidius.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hemp.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "herald-dispatch.com",
@@ -3321,7 +3313,7 @@ var URLscoreArray = [
   },
   {
     url: "heraldnet.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "heraldnews.com",
@@ -3329,7 +3321,7 @@ var URLscoreArray = [
   },
   {
     url: "heraldonline.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "heraldsun.com",
@@ -3357,11 +3349,11 @@ var URLscoreArray = [
   },
   {
     url: "highline.huffingtonpost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hightimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hillarydaily.com",
@@ -3373,11 +3365,11 @@ var URLscoreArray = [
   },
   {
     url: "hindustantimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "historynewsnetwork.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hlntv.com",
@@ -3389,7 +3381,7 @@ var URLscoreArray = [
   },
   {
     url: "hollywoodreporter.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "homelandsecuritynewswire.com",
@@ -3429,11 +3421,11 @@ var URLscoreArray = [
   },
   {
     url: "hrw.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hs.fi",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "hudson.org",
@@ -3457,7 +3449,7 @@ var URLscoreArray = [
   },
   {
     url: "humanium.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "humanprogress.org",
@@ -3465,7 +3457,7 @@ var URLscoreArray = [
   },
   {
     url: "hurriyetdailynews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "huzlers.com",
@@ -3481,15 +3473,15 @@ var URLscoreArray = [
   },
   {
     url: "ibtimes.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ibtimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "icenews.is",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "icij.org",
@@ -3501,7 +3493,7 @@ var URLscoreArray = [
   },
   {
     url: "icrw.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "idahostatesman.com",
@@ -3517,11 +3509,11 @@ var URLscoreArray = [
   },
   {
     url: "ifamericaknew.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "iflscience.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ifstudies.org",
@@ -3545,7 +3537,7 @@ var URLscoreArray = [
   },
   {
     url: "imeu.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "impeachdjtnow.com",
@@ -3557,11 +3549,11 @@ var URLscoreArray = [
   },
   {
     url: "independent.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "independent.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "independent.ie",
@@ -3573,7 +3565,7 @@ var URLscoreArray = [
   },
   {
     url: "independentaustralia.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "independentsentinel.com",
@@ -3585,7 +3577,7 @@ var URLscoreArray = [
   },
   {
     url: "indiancountrytodaymedianetwork.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "indianexpress.com",
@@ -3605,11 +3597,11 @@ var URLscoreArray = [
   },
   {
     url: "indystar.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "indyweek.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "inequalitymedia.org",
@@ -3617,7 +3609,7 @@ var URLscoreArray = [
   },
   {
     url: "inews.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "influencewatch.org",
@@ -3625,7 +3617,7 @@ var URLscoreArray = [
   },
   {
     url: "infobae.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "inforum.com",
@@ -3641,27 +3633,27 @@ var URLscoreArray = [
   },
   {
     url: "inquirer.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "inquirer.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "insideclimatenews.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "insideedition.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "insidehighered.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "insidephilanthropy.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "insider.foxnews.com",
@@ -3685,7 +3677,7 @@ var URLscoreArray = [
   },
   {
     url: "interpretermag.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "inthesetimes.com",
@@ -3697,15 +3689,15 @@ var URLscoreArray = [
   },
   {
     url: "inverse.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "investigaterussia.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "investigations.peta.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "investopedia.com",
@@ -3717,7 +3709,7 @@ var URLscoreArray = [
   },
   {
     url: "io9.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "iowastartingline.com",
@@ -3729,7 +3721,7 @@ var URLscoreArray = [
   },
   {
     url: "ipolitics.ca",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ips-dc.org",
@@ -3745,15 +3737,15 @@ var URLscoreArray = [
   },
   {
     url: "irinnews.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "irishtimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "irrawaddy.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "israelhayom.com",
@@ -3769,7 +3761,7 @@ var URLscoreArray = [
   },
   {
     url: "itep.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "itsgoingdown.org",
@@ -3793,7 +3785,7 @@ var URLscoreArray = [
   },
   {
     url: "jacksonfreepress.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "jacksonsun.com",
@@ -3849,7 +3841,7 @@ var URLscoreArray = [
   },
   {
     url: "jihadica.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "jihadwatch.org",
@@ -3905,7 +3897,7 @@ var URLscoreArray = [
   },
   {
     url: "jsonline.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "jta.org",
@@ -3941,7 +3933,7 @@ var URLscoreArray = [
   },
   {
     url: "justsecurity.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "kait8.com",
@@ -3953,7 +3945,7 @@ var URLscoreArray = [
   },
   {
     url: "kansascity.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "kansaspolicy.org",
@@ -3969,7 +3961,7 @@ var URLscoreArray = [
   },
   {
     url: "kentucky.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "kff.org",
@@ -3981,7 +3973,7 @@ var URLscoreArray = [
   },
   {
     url: "kgw.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "khou.com",
@@ -3997,7 +3989,7 @@ var URLscoreArray = [
   },
   {
     url: "knightfoundation.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "knowherenews.com",
@@ -4025,11 +4017,11 @@ var URLscoreArray = [
   },
   {
     url: "koreatimes.co.kr",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "kotaku.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "kptv.com",
@@ -4053,11 +4045,11 @@ var URLscoreArray = [
   },
   {
     url: "kuow.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "kurdistan24.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "kutv.com",
@@ -4069,15 +4061,15 @@ var URLscoreArray = [
   },
   {
     url: "kyivpost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "laconiadailysun.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "lamag.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "lansingstatejournal.com",
@@ -4085,15 +4077,15 @@ var URLscoreArray = [
   },
   {
     url: "lapresse.ca",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "lastampa.it",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "lasvegassun.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "latest.com",
@@ -4101,7 +4093,7 @@ var URLscoreArray = [
   },
   {
     url: "latimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "latino.foxnews.com",
@@ -4109,7 +4101,7 @@ var URLscoreArray = [
   },
   {
     url: "latintimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "lavendermagazine.com",
@@ -4121,7 +4113,7 @@ var URLscoreArray = [
   },
   {
     url: "lawandcrime.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "laweekly.com",
@@ -4177,11 +4169,11 @@ var URLscoreArray = [
   },
   {
     url: "legitgov.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "lehighvalleylive.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "leicestermercury.co.uk",
@@ -4189,7 +4181,7 @@ var URLscoreArray = [
   },
   {
     url: "lethbridgeherald.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "lexingtoninstitute.org",
@@ -4221,7 +4213,7 @@ var URLscoreArray = [
   },
   {
     url: "liberalmountain.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "liberationnews.org",
@@ -4293,7 +4285,7 @@ var URLscoreArray = [
   },
   {
     url: "lohud.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "lompocrecord.com",
@@ -4353,7 +4345,7 @@ var URLscoreArray = [
   },
   {
     url: "magazine.atavist.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "magicvalley.com",
@@ -4361,11 +4353,11 @@ var URLscoreArray = [
   },
   {
     url: "mainebeacon.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mainichi.jp",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "makeuseof.com",
@@ -4377,7 +4369,7 @@ var URLscoreArray = [
   },
   {
     url: "malaysiakini.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "manhattan-institute.org",
@@ -4389,7 +4381,7 @@ var URLscoreArray = [
   },
   {
     url: "maplight.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "marginalrevolution.com",
@@ -4413,7 +4405,7 @@ var URLscoreArray = [
   },
   {
     url: "mashable.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "masslive.com",
@@ -4429,11 +4421,11 @@ var URLscoreArray = [
   },
   {
     url: "mcclatchydc.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mediabiasfactcheck.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mediacircus.com",
@@ -4445,11 +4437,11 @@ var URLscoreArray = [
   },
   {
     url: "mediafiledc.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mediaite.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mediamatters.org",
@@ -4465,7 +4457,7 @@ var URLscoreArray = [
   },
   {
     url: "medium.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "meduza.io",
@@ -4493,7 +4485,7 @@ var URLscoreArray = [
   },
   {
     url: "mercurynews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "merionwest.com",
@@ -4509,11 +4501,11 @@ var URLscoreArray = [
   },
   {
     url: "metro.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "metro.us",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "metrotimes.com",
@@ -4525,11 +4517,11 @@ var URLscoreArray = [
   },
   {
     url: "mexiconewsdaily.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "miamiherald.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "miaminewtimes.com",
@@ -4537,7 +4529,7 @@ var URLscoreArray = [
   },
   {
     url: "mic.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "michellemalkin.com",
@@ -4549,15 +4541,15 @@ var URLscoreArray = [
   },
   {
     url: "michigandaily.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "middleeastmonitor.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "migrationpolicy.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "military.com",
@@ -4569,15 +4561,15 @@ var URLscoreArray = [
   },
   {
     url: "minnpost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mintpressnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mirror.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mises.org",
@@ -4593,7 +4585,7 @@ var URLscoreArray = [
   },
   {
     url: "mnn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "modbee.com",
@@ -4613,19 +4605,19 @@ var URLscoreArray = [
   },
   {
     url: "mondoweiss.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "money.cnn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "monthlyreview.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "montrealgazette.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "moonofalabama.org",
@@ -4645,11 +4637,11 @@ var URLscoreArray = [
   },
   {
     url: "mothership.sg",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mprnews.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mrc.org",
@@ -4673,7 +4665,7 @@ var URLscoreArray = [
   },
   {
     url: "mtdemocrat.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mtstandard.com",
@@ -4681,15 +4673,15 @@ var URLscoreArray = [
   },
   {
     url: "mtv.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "muncievoice.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mwcnews.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "myfox8.com",
@@ -4705,7 +4697,7 @@ var URLscoreArray = [
   },
   {
     url: "mysanantonio.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "mystatesman.com",
@@ -4717,7 +4709,7 @@ var URLscoreArray = [
   },
   {
     url: "naacp.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nahadaily.com",
@@ -4725,7 +4717,7 @@ var URLscoreArray = [
   },
   {
     url: "nakedcapitalism.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "napavalleyregister.com",
@@ -4733,7 +4725,7 @@ var URLscoreArray = [
   },
   {
     url: "naplesnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "natalietennant.com",
@@ -4765,11 +4757,11 @@ var URLscoreArray = [
   },
   {
     url: "nationalnewswatch.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nationalobserver.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nationalpost.com",
@@ -4797,7 +4789,7 @@ var URLscoreArray = [
   },
   {
     url: "natmonitor.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "naturalnews.com",
@@ -4805,7 +4797,7 @@ var URLscoreArray = [
   },
   {
     url: "nature.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "navytimes.com",
@@ -4813,7 +4805,7 @@ var URLscoreArray = [
   },
   {
     url: "nbcbayarea.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nbcchicago.com",
@@ -4829,19 +4821,19 @@ var URLscoreArray = [
   },
   {
     url: "nbclosangeles.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nbcnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nbcnewyork.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nbcphiladelphia.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nbcsandiego.com",
@@ -4849,7 +4841,7 @@ var URLscoreArray = [
   },
   {
     url: "nbcwashington.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nber.org",
@@ -4861,7 +4853,7 @@ var URLscoreArray = [
   },
   {
     url: "ncpolicywatch.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ncpssm.org",
@@ -4873,15 +4865,15 @@ var URLscoreArray = [
   },
   {
     url: "ndtv.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "necn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newamerica.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newbernsj.com",
@@ -4893,7 +4885,7 @@ var URLscoreArray = [
   },
   {
     url: "neweurope.eu",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newint.org",
@@ -4909,15 +4901,15 @@ var URLscoreArray = [
   },
   {
     url: "newmatilda.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newmoderate.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newnownext.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newpol.org",
@@ -4949,7 +4941,7 @@ var URLscoreArray = [
   },
   {
     url: "news.cn",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "news.com.au",
@@ -4961,7 +4953,7 @@ var URLscoreArray = [
   },
   {
     url: "news.google.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "news.grabien.com",
@@ -4985,7 +4977,7 @@ var URLscoreArray = [
   },
   {
     url: "news.mongabay.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "news.msn.com",
@@ -4997,11 +4989,11 @@ var URLscoreArray = [
   },
   {
     url: "news.trust.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "news.vice.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "news.wgbh.org",
@@ -5021,7 +5013,7 @@ var URLscoreArray = [
   },
   {
     url: "newsandgutsmedia.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newsandnews.com",
@@ -5037,11 +5029,11 @@ var URLscoreArray = [
   },
   {
     url: "newsday.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newsdeeply.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newsela.com",
@@ -5049,7 +5041,7 @@ var URLscoreArray = [
   },
   {
     url: "newser.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newsguardtech.com",
@@ -5069,7 +5061,7 @@ var URLscoreArray = [
   },
   {
     url: "newsite.thehindu.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newslookup.com",
@@ -5085,7 +5077,7 @@ var URLscoreArray = [
   },
   {
     url: "newsobserver.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newsone.com",
@@ -5105,15 +5097,15 @@ var URLscoreArray = [
   },
   {
     url: "newstimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newsweek.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newsy.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "newyork.cbslocal.com",
@@ -5145,7 +5137,7 @@ var URLscoreArray = [
   },
   {
     url: "nola.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nolabels.org",
@@ -5169,7 +5161,7 @@ var URLscoreArray = [
   },
   {
     url: "northjersey.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "northkoreatimes.com",
@@ -5201,7 +5193,7 @@ var URLscoreArray = [
   },
   {
     url: "npr.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nraila.org",
@@ -5229,7 +5221,7 @@ var URLscoreArray = [
   },
   {
     url: "nydailynews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nymag.com",
@@ -5241,7 +5233,7 @@ var URLscoreArray = [
   },
   {
     url: "nytimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "nzherald.co.nz",
@@ -5273,7 +5265,7 @@ var URLscoreArray = [
   },
   {
     url: "occupyindependents.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ocregister.com",
@@ -5281,7 +5273,7 @@ var URLscoreArray = [
   },
   {
     url: "ocweekly.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "odmp.org",
@@ -5297,7 +5289,7 @@ var URLscoreArray = [
   },
   {
     url: "oilandwaterdontmix.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "oilprice.com",
@@ -5325,7 +5317,7 @@ var URLscoreArray = [
   },
   {
     url: "oneindia.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "onenewsnow.com",
@@ -5345,7 +5337,7 @@ var URLscoreArray = [
   },
   {
     url: "opendemocracy.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "opendoorsusa.org",
@@ -5365,7 +5357,7 @@ var URLscoreArray = [
   },
   {
     url: "ora.tv",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "order-order.com",
@@ -5373,7 +5365,7 @@ var URLscoreArray = [
   },
   {
     url: "orlandosentinel.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ottawacitizen.com",
@@ -5385,7 +5377,7 @@ var URLscoreArray = [
   },
   {
     url: "ourworldindata.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "out.com",
@@ -5397,7 +5389,7 @@ var URLscoreArray = [
   },
   {
     url: "outsidethebeltway.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "oyez.org",
@@ -5405,7 +5397,7 @@ var URLscoreArray = [
   },
   {
     url: "ozy.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pacificresearch.org",
@@ -5417,11 +5409,11 @@ var URLscoreArray = [
   },
   {
     url: "palmbeachdailynews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "palmbeachpost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "palmerreport.com",
@@ -5433,11 +5425,11 @@ var URLscoreArray = [
   },
   {
     url: "pamplinmedia.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "panampost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pantagraph.com",
@@ -5457,7 +5449,7 @@ var URLscoreArray = [
   },
   {
     url: "patrioticmillionaires.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "patriotnewsalerts.com",
@@ -5477,7 +5469,7 @@ var URLscoreArray = [
   },
   {
     url: "pbs.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pe.com",
@@ -5493,7 +5485,7 @@ var URLscoreArray = [
   },
   {
     url: "pennlive.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "perduesenate.com",
@@ -5509,7 +5501,7 @@ var URLscoreArray = [
   },
   {
     url: "petitions.whitehouse.gov",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pewresearch.org",
@@ -5525,11 +5517,11 @@ var URLscoreArray = [
   },
   {
     url: "philly.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "phillytrib.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "phnompenhpost.com",
@@ -5537,7 +5529,7 @@ var URLscoreArray = [
   },
   {
     url: "phoenixnewtimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "photographyisnotacrime.com",
@@ -5549,7 +5541,7 @@ var URLscoreArray = [
   },
   {
     url: "pilotonline.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pinknews.co.uk",
@@ -5561,7 +5553,7 @@ var URLscoreArray = [
   },
   {
     url: "pix11.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pjmedia.com",
@@ -5605,7 +5597,7 @@ var URLscoreArray = [
   },
   {
     url: "politicalcritique.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "politicaldig.com",
@@ -5637,7 +5629,7 @@ var URLscoreArray = [
   },
   {
     url: "politico.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "politicsnote.com",
@@ -5645,7 +5637,7 @@ var URLscoreArray = [
   },
   {
     url: "politicsthatwork.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "politicususa.com",
@@ -5653,7 +5645,7 @@ var URLscoreArray = [
   },
   {
     url: "politifact.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "politifeed.net",
@@ -5669,7 +5661,7 @@ var URLscoreArray = [
   },
   {
     url: "polygon.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "polygraph.info",
@@ -5681,7 +5673,7 @@ var URLscoreArray = [
   },
   {
     url: "populardemocracy.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "popularmilitary.com",
@@ -5693,7 +5685,7 @@ var URLscoreArray = [
   },
   {
     url: "populationconnection.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "populistwire.com",
@@ -5701,7 +5693,7 @@ var URLscoreArray = [
   },
   {
     url: "positive.news",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "post-gazette.com",
@@ -5741,7 +5733,7 @@ var URLscoreArray = [
   },
   {
     url: "pressdemocrat.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pressherald.com",
@@ -5753,7 +5745,7 @@ var URLscoreArray = [
   },
   {
     url: "presstv.ir",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pri.org",
@@ -5781,7 +5773,7 @@ var URLscoreArray = [
   },
   {
     url: "project-syndicate.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "projectcensored.org",
@@ -5801,11 +5793,11 @@ var URLscoreArray = [
   },
   {
     url: "prospectmagazine.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "providencejournal.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "prri.org",
@@ -5813,7 +5805,7 @@ var URLscoreArray = [
   },
   {
     url: "prwatch.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "pryorforsenate.com",
@@ -5821,15 +5813,15 @@ var URLscoreArray = [
   },
   {
     url: "psmag.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "psychologicalscience.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "publicintegrity.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "publicinterestlegal.org",
@@ -5841,7 +5833,7 @@ var URLscoreArray = [
   },
   {
     url: "pulsegulfcoast.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "punchingbagpost.com",
@@ -5881,7 +5873,7 @@ var URLscoreArray = [
   },
   {
     url: "qz.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "rabble.ca",
@@ -5917,7 +5909,7 @@ var URLscoreArray = [
   },
   {
     url: "rationalwiki.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "rawstory.com",
@@ -5933,7 +5925,7 @@ var URLscoreArray = [
   },
   {
     url: "readfrontier.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "readingthepictures.org",
@@ -6025,7 +6017,7 @@ var URLscoreArray = [
   },
   {
     url: "religionnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "remingtonresearchgroup.com",
@@ -6041,11 +6033,11 @@ var URLscoreArray = [
   },
   {
     url: "represent.us",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "repubblica.it",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "republicanssucks.org",
@@ -6070,7 +6062,7 @@ var URLscoreArray = [
  
   {
     url: "resourcegovernance.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "restoreamericanglory.com",
@@ -6086,7 +6078,7 @@ var URLscoreArray = [
   },
   {
     url: "revealnews.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "reverbpress.com",
@@ -6110,7 +6102,7 @@ var URLscoreArray = [
   },
   {
     url: "rfa.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "rferl.org",
@@ -6118,7 +6110,7 @@ var URLscoreArray = [
   },
   {
     url: "rgj.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "richmond.com",
@@ -6150,7 +6142,7 @@ var URLscoreArray = [
   },
   {
     url: "roanoke.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "robmaness.com",
@@ -6174,7 +6166,7 @@ var URLscoreArray = [
   },
   {
     url: "rooseveltinstitute.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "rsf.org",
@@ -6194,7 +6186,7 @@ var URLscoreArray = [
   },
   {
     url: "rudaw.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "rushlimbaugh.com",
@@ -6206,7 +6198,7 @@ var URLscoreArray = [
   },
   {
     url: "sacbee.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sacramento.cbslocal.com",
@@ -6230,7 +6222,7 @@ var URLscoreArray = [
   },
   {
     url: "sandiegoreader.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sandiegouniontribune.com",
@@ -6238,7 +6230,7 @@ var URLscoreArray = [
   },
   {
     url: "sanluisobispo.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sanmarcosrecord.com",
@@ -6246,7 +6238,7 @@ var URLscoreArray = [
   },
   {
     url: "santafenewmexican.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "santamariatimes.com",
@@ -6254,7 +6246,7 @@ var URLscoreArray = [
   },
   {
     url: "sapiens.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "saturdayeveningpost.com",
@@ -6262,7 +6254,7 @@ var URLscoreArray = [
   },
   {
     url: "saudigazette.com.sa",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "savannahnow.com",
@@ -6282,7 +6274,7 @@ var URLscoreArray = [
   },
   {
     url: "sbs.com.au",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sbsun.com",
@@ -6302,7 +6294,7 @@ var URLscoreArray = [
   },
   {
     url: "sciencing.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "scientificamerican.com",
@@ -6310,7 +6302,7 @@ var URLscoreArray = [
   },
   {
     url: "scmp.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "scoopnest.com",
@@ -6318,7 +6310,7 @@ var URLscoreArray = [
   },
   {
     url: "scoopwhoop.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "scotsman.com",
@@ -6334,7 +6326,7 @@ var URLscoreArray = [
   },
   {
     url: "scroll.in",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sctimes.com",
@@ -6346,15 +6338,15 @@ var URLscoreArray = [
   },
   {
     url: "seattlepi.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "seattletimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "secondnexus.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "secretsofthefed.com",
@@ -6366,7 +6358,7 @@ var URLscoreArray = [
   },
   {
     url: "secure.nrdconline.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "secureamericanow.org",
@@ -6378,7 +6370,7 @@ var URLscoreArray = [
   },
   {
     url: "sentencingproject.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sentinelksmo.org",
@@ -6390,15 +6382,15 @@ var URLscoreArray = [
   },
   {
     url: "sfchronicle.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sfexaminer.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sfgate.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sfweekly.com",
@@ -6410,7 +6402,7 @@ var URLscoreArray = [
   },
   {
     url: "shameproject.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "share.credoaction.com",
@@ -6454,7 +6446,7 @@ var URLscoreArray = [
   },
   {
     url: "skyhidailynews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "slate.com",
@@ -6462,7 +6454,7 @@ var URLscoreArray = [
   },
   {
     url: "sltrib.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "smartnews.com",
@@ -6474,7 +6466,7 @@ var URLscoreArray = [
   },
   {
     url: "smh.com.au",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "smirkingchimp.com",
@@ -6506,7 +6498,7 @@ var URLscoreArray = [
   },
   {
     url: "sojo.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sonorannews.com",
@@ -6518,7 +6510,7 @@ var URLscoreArray = [
   },
   {
     url: "sootoday.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sourcepolitics.com",
@@ -6554,7 +6546,7 @@ var URLscoreArray = [
   },
   {
     url: "spiegel.de",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "spiked-online.com",
@@ -6590,7 +6582,7 @@ var URLscoreArray = [
   },
   {
     url: "staradvertiser.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "stardem.com",
@@ -6602,19 +6594,19 @@ var URLscoreArray = [
   },
   {
     url: "startribune.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "state-journal.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "statepress.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "statesman.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "statesmanjournal.com",
@@ -6634,7 +6626,7 @@ var URLscoreArray = [
   },
   {
     url: "stepfeed.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "stimson.org",
@@ -6650,7 +6642,7 @@ var URLscoreArray = [
   },
   {
     url: "stopfake.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "stpete4peace.org",
@@ -6674,7 +6666,7 @@ var URLscoreArray = [
   },
   {
     url: "student-debt-forgiveness.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "studentnewsdaily.com",
@@ -6682,7 +6674,7 @@ var URLscoreArray = [
   },
   {
     url: "stuff.co.nz",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "sullivan2014.com",
@@ -6702,7 +6694,7 @@ var URLscoreArray = [
   },
   {
     url: "sunlightfoundation.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "swarajyamag.com",
@@ -6710,7 +6702,7 @@ var URLscoreArray = [
   },
   {
     url: "swissinfo.ch",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "syracuse.com",
@@ -6718,7 +6710,7 @@ var URLscoreArray = [
   },
   {
     url: "syriahr.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "syriana-analysis.com",
@@ -6726,7 +6718,7 @@ var URLscoreArray = [
   },
   {
     url: "tabletmag.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "tacticalshit.com",
@@ -6754,11 +6746,11 @@ var URLscoreArray = [
   },
   {
     url: "tampabay.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "tarbell.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "taskandpurpose.com",
@@ -6770,7 +6762,7 @@ var URLscoreArray = [
   },
   {
     url: "taxjustice.net",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "taxpayer.com",
@@ -6782,7 +6774,7 @@ var URLscoreArray = [
   },
   {
     url: "tcf.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "tdn.com",
@@ -6810,19 +6802,19 @@ var URLscoreArray = [
   },
   {
     url: "techdirt.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "techhq.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ted.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "teenvogue.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "telegraaf.nl",
@@ -6854,7 +6846,7 @@ var URLscoreArray = [
   },
   {
     url: "texasmonthly.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "texasobserver.org",
@@ -6866,7 +6858,7 @@ var URLscoreArray = [
   },
   {
     url: "texastribune.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thatsnonsense.com",
@@ -6890,7 +6882,7 @@ var URLscoreArray = [
   },
   {
     url: "theage.com.au",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theamericancause.org",
@@ -6902,11 +6894,15 @@ var URLscoreArray = [
   },
   {
     url: "theantimedia.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
+  },
+{
+    url: "theantimedia.org",
+    alignment: "CENTER-LEFT"
   },
   {
-    url: "theatlantic.com",
-    alignment: "CENTER-LEFT",
+    url: "bleacherreport.com",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theaustralian.com.au",
@@ -6914,11 +6910,11 @@ var URLscoreArray = [
   },
   {
     url: "theautomaticearth.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thebaffler.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thebalance.com",
@@ -6926,7 +6922,7 @@ var URLscoreArray = [
   },
   {
     url: "thebipartisanpress.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theblacksphere.net",
@@ -6978,7 +6974,7 @@ var URLscoreArray = [
   },
   {
     url: "thecitizen.org.au",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thecitizenpress.com",
@@ -7010,7 +7006,7 @@ var URLscoreArray = [
   },
   {
     url: "thedailybeast.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thedailycentrist.com",
@@ -7030,7 +7026,7 @@ var URLscoreArray = [
   },
   {
     url: "thedailyshow.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thedailyvox.co.za",
@@ -7098,7 +7094,7 @@ var URLscoreArray = [
   },
   {
     url: "thefreethoughtproject.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thefrisky.com",
@@ -7126,7 +7122,7 @@ var URLscoreArray = [
   },
   {
     url: "theguardian.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theguardiansofdemocracy.com",
@@ -7142,7 +7138,7 @@ var URLscoreArray = [
   },
   {
     url: "thehilltalk.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thehindubusinessline.com",
@@ -7170,7 +7166,7 @@ var URLscoreArray = [
   },
   {
     url: "theintercept.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theitem.com",
@@ -7190,7 +7186,7 @@ var URLscoreArray = [
   },
   {
     url: "thejustice.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thelasource.com",
@@ -7210,7 +7206,7 @@ var URLscoreArray = [
   },
   {
     url: "thelocal.no",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thelondoneconomic.com",
@@ -7242,7 +7238,7 @@ var URLscoreArray = [
   },
   {
     url: "themindunleashed.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theminorityreportblog.com",
@@ -7254,7 +7250,7 @@ var URLscoreArray = [
   },
   {
     url: "themoderatevoice.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "themonitor.com",
@@ -7262,11 +7258,11 @@ var URLscoreArray = [
   },
   {
     url: "themonthly.com.au",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "themoscowtimes.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thenation.com",
@@ -7314,15 +7310,15 @@ var URLscoreArray = [
   },
   {
     url: "thenewstribune.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thenewtropic.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thenextweb.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theobjectivestandard.com",
@@ -7330,7 +7326,7 @@ var URLscoreArray = [
   },
   {
     url: "theodysseyonline.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theohiostar.com",
@@ -7338,11 +7334,11 @@ var URLscoreArray = [
   },
   {
     url: "theolympian.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theonion.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theoswatch.com",
@@ -7358,7 +7354,7 @@ var URLscoreArray = [
   },
   {
     url: "thepetitionsite.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thepolicewifelifeblog.com",
@@ -7410,7 +7406,7 @@ var URLscoreArray = [
   },
   {
     url: "theringer.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theroot.com",
@@ -7418,11 +7414,11 @@ var URLscoreArray = [
   },
   {
     url: "thesaturdaypaper.com.au",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theskimm.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thesmokinggun.com",
@@ -7438,7 +7434,7 @@ var URLscoreArray = [
   },
   {
     url: "thestar.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thestarphoenix.com",
@@ -7446,7 +7442,7 @@ var URLscoreArray = [
   },
   {
     url: "thestate.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thesternfacts.com",
@@ -7454,7 +7450,7 @@ var URLscoreArray = [
   },
   {
     url: "thestranger.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thestrategybridge.org",
@@ -7470,11 +7466,11 @@ var URLscoreArray = [
   },
   {
     url: "thesunmagazine.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thetab.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thetandd.com",
@@ -7494,7 +7490,7 @@ var URLscoreArray = [
   },
   {
     url: "thetrace.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thetruthaboutguns.com",
@@ -7502,7 +7498,7 @@ var URLscoreArray = [
   },
   {
     url: "thetyee.ca",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theuspatriot.com",
@@ -7510,11 +7506,11 @@ var URLscoreArray = [
   },
   {
     url: "thevarsity.ca",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theverge.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thewalrus.ca",
@@ -7522,7 +7518,7 @@ var URLscoreArray = [
   },
   {
     url: "theweek.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "theweek.com",
@@ -7538,11 +7534,11 @@ var URLscoreArray = [
   },
   {
     url: "thewire.in",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thewrap.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thinkprogress.org",
@@ -7558,7 +7554,7 @@ var URLscoreArray = [
   },
   {
     url: "thisisthezerohour.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "thomtillis.com",
@@ -7570,23 +7566,23 @@ var URLscoreArray = [
   },
   {
     url: "thrillist.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "time.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "timeline.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "timescall.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "timescolonist.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "timesfreepress.com",
@@ -7594,7 +7590,7 @@ var URLscoreArray = [
   },
   {
     url: "timesheadline.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "timeslive.co.za",
@@ -7610,11 +7606,11 @@ var URLscoreArray = [
   },
   {
     url: "timesunion.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "tmz.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "tnonline.com",
@@ -7630,7 +7626,7 @@ var URLscoreArray = [
   },
   {
     url: "toinformistoinfluence.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "toledoblade.com",
@@ -7642,11 +7638,11 @@ var URLscoreArray = [
   },
   {
     url: "tomdispatch.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "topinfopost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "torontosun.com",
@@ -7666,7 +7662,7 @@ var URLscoreArray = [
   },
   {
     url: "transequality.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "transparency.org",
@@ -7722,7 +7718,7 @@ var URLscoreArray = [
   },
   {
     url: "truth-out.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "truthagainstthemachine.com",
@@ -7762,7 +7758,7 @@ var URLscoreArray = [
   },
   {
     url: "tucson.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "tulsaworld.com",
@@ -7774,7 +7770,7 @@ var URLscoreArray = [
   },
   {
     url: "twincities.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "twitchy.com",
@@ -7782,7 +7778,7 @@ var URLscoreArray = [
   },
   {
     url: "typemediaCENTER.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "tytnetwork.com",
@@ -7790,15 +7786,15 @@ var URLscoreArray = [
   },
   {
     url: "uawire.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ucsusa.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "uft.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ulstermanbooks.com",
@@ -7810,7 +7806,7 @@ var URLscoreArray = [
   },
   {
     url: "unicornriot.ninja",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "unionleader.com",
@@ -7830,15 +7826,15 @@ var URLscoreArray = [
   },
   {
     url: "universitybusiness.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "univision.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "unpri.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "unwatch.org",
@@ -7854,11 +7850,11 @@ var URLscoreArray = [
   },
   {
     url: "upr.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "uproxx.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "upworthy.com",
@@ -7866,7 +7862,7 @@ var URLscoreArray = [
   },
   {
     url: "urban.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "us.blastingnews.com",
@@ -7902,7 +7898,7 @@ var URLscoreArray = [
   },
   {
     url: "usnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "ussanews.com",
@@ -7910,7 +7906,7 @@ var URLscoreArray = [
   },
   {
     url: "uticaod.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "valleycentral.com",
@@ -7930,11 +7926,11 @@ var URLscoreArray = [
   },
   {
     url: "vanityfair.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "variety.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "verafiles.org",
@@ -7958,11 +7954,11 @@ var URLscoreArray = [
   },
   {
     url: "vice.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "victoriaadvocate.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "video.foxnews.com",
@@ -7990,7 +7986,7 @@ var URLscoreArray = [
   },
   {
     url: "virginiamercury.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "virtualjerusalem.com",
@@ -8038,7 +8034,7 @@ var URLscoreArray = [
   },
   {
     url: "votevets.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "vox.com",
@@ -8046,11 +8042,11 @@ var URLscoreArray = [
   },
   {
     url: "vtdigger.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "vulture.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wacotrib.com",
@@ -8062,7 +8058,7 @@ var URLscoreArray = [
   },
   {
     url: "walesonline.co.uk",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wallstreetonparade.com",
@@ -8086,7 +8082,7 @@ var URLscoreArray = [
   },
   {
     url: "washingtonblade.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "washingtondailywire.com",
@@ -8106,11 +8102,11 @@ var URLscoreArray = [
   },
   {
     url: "washingtonmonthly.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "washingtonpost.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "washingtonpress.com",
@@ -8182,7 +8178,7 @@ var URLscoreArray = [
   },
   {
     url: "westernmassnews.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "westmonster.com",
@@ -8190,7 +8186,7 @@ var URLscoreArray = [
   },
   {
     url: "westword.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wfaa.com",
@@ -8218,7 +8214,7 @@ var URLscoreArray = [
   },
   {
     url: "wgntv.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "whatfinger.com",
@@ -8234,7 +8230,7 @@ var URLscoreArray = [
   },
   {
     url: "whistleblower.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "whitehousewatch.com",
@@ -8250,7 +8246,7 @@ var URLscoreArray = [
   },
   {
     url: "wikileaks.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wikipedia.org",
@@ -8262,7 +8258,7 @@ var URLscoreArray = [
   },
   {
     url: "wilderness.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "winchesterstar.com",
@@ -8274,7 +8270,7 @@ var URLscoreArray = [
   },
   {
     url: "wingsoverscotland.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "winonadailynews.com",
@@ -8286,15 +8282,15 @@ var URLscoreArray = [
   },
   {
     url: "wired.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wisconsingazette.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wjla.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wmur.com",
@@ -8314,7 +8310,7 @@ var URLscoreArray = [
   },
   {
     url: "wnyc.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wonkette.com",
@@ -8334,11 +8330,11 @@ var URLscoreArray = [
   },
   {
     url: "worldcrunch.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "worldpolicy.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "worldpoliticsreview.com",
@@ -8358,7 +8354,7 @@ var URLscoreArray = [
   },
   {
     url: "worldstarhiphop.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "worldtribune.com",
@@ -8394,7 +8390,7 @@ var URLscoreArray = [
   },
   {
     url: "wsvn.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wsws.org",
@@ -8414,11 +8410,11 @@ var URLscoreArray = [
   },
   {
     url: "wusa9.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "wvgazettemail.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "www3.nhk.or.jp",
@@ -8434,11 +8430,11 @@ var URLscoreArray = [
   },
   {
     url: "yahoo.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "yaleglobal.yale.edu",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "yankeeinstitute.org",
@@ -8446,7 +8442,7 @@ var URLscoreArray = [
   },
   {
     url: "ydr.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "yellowhammernews.com",
@@ -8462,7 +8458,7 @@ var URLscoreArray = [
   },
   {
     url: "yorkdispatch.com",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "youngcons.com",
@@ -8482,7 +8478,7 @@ var URLscoreArray = [
   },
   {
     url: "youthradio.org",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "zcomm.org",
@@ -8498,7 +8494,7 @@ var URLscoreArray = [
   },
   {
     url: "zeit.de",
-    alignment: "CENTER-LEFT",
+    alignment: "CENTER-LEFT"
   },
   {
     url: "zerohedge.com",
