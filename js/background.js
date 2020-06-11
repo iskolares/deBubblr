@@ -1,101 +1,60 @@
 
-buildHistory(createDOM);
-function createDOM(list) {
-    buildCharts(list);
+const microsecondsPerWeek = 1000 * 60 * 60 * 24 * 7;
+var endTime = new Date().getTime();
+
+if(document.URL.indexOf("popup.html") < 0){ 
+  $('body').append('<div style="" id="loadingDiv"><div class="loader">Loading...</div></div>');
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 1000); 
+  });
+  function removeLoader(){
+      $( "#loadingDiv" ).fadeOut(500, function() {
+        $( "#loadingDiv" ).remove(); 
+    });  
+  }
+
+  var select = document.querySelector("select.history-range-class");
+  var selected = localStorage.getItem('select');
+  if(selected) {
+      select.value = selected; 
+      console.log(selected);
+      setTimeVariable(selected);
+  }
+
+  select.onchange = function () {
+    selected = select.options[select.selectedIndex].value;
+    localStorage.setItem('select', selected);
+    setTimeVariable(selected);
+    location.reload();
+  }
+
 }
 
-
-/* function getTimeVariable(){
-  var microsecondsPerWeek = 1000 * 60 * 60 * 24 * 7;
-  var to = new Date().getTime();
+else{
+  var since = endTime - microsecondsPerWeek;
+  buildHistory(since);
 }
 
-function getTimeVariable(){
-  var microsecondsPerWeek = 1000 * 60 * 60 * 24 * 7;
-  var to = new Date().getTime();
-
-  if(document.URL.indexOf("popup.html") < 0){ 
-    var selected = localStorage.getItem('selected');
-
-    if (selected) {
-      $(".history-range-class").val(selected);
-    }
-
-    $("select.history-range-class").change(function(){
-      selected = localStorage.setItem('selected', $(this).val());
-
-      if(selected=="currentweek"){
-
-        var oneWeekAgo = to - microsecondsPerWeek;
-        var since = oneWeekAgo;
-        console.log(since);
-      }
-      if(selected=="recentweek"){
-
-        var oneWeekAgo = to - microsecondsPerWeek;
-        var since = oneWeekAgo;
-        console.log(since);
-      }
-      if(selected=="recentmonth")
-      {
-        console.log(microsecondsPerWeek);
-        var since = to - (4*microsecondsPerWeek);
-        console.log(since);
-      }
-      if(selected=="allhistory"){
-
-        var since = 0;
-        console.log(since);
-      }
-      
- 
-     // return since;
-    }); 
-  } 
-} */
-
-function buildHistory(createDOM){
-  var microsecondsPerWeek = 1000 * 60 * 60 * 24 * 7;
-  var to = new Date().getTime();
-  var oneWeekAgo = to - microsecondsPerWeek;
-  var since = oneWeekAgo; 
-
-  var numRequestsOutstanding = 0; // Number of requests to process
-
-  var selectedInterval = 0;
-
-  if(document.URL.indexOf("popup.html") < 0){ 
-
-  $("select.history-range-class").change(function(){
-    selectedInterval = $(this).children("option:selected").val();
-    console.log(selectedInterval);
-
-    if(selectedInterval=="currentweek"){
-      var oneWeekAgo = to - microsecondsPerWeek;
-      since = oneWeekAgo;
-      console.log(since);
-    }
-    if(selectedInterval=="recentweek"){
-      var oneWeekAgo = to - microsecondsPerWeek;
-      since = oneWeekAgo;
-      console.log(since);
-    }
-    if(selectedInterval=="recentmonth")
-    {
-      since = to - (4*microsecondsPerWeek);
-      console.log(since);
-    }
-    if(selectedInterval=="allhistory"){
-      since = 0;
-      console.log(since);
-    }
-    console.log(since);
-    
-  }); 
+function setTimeVariable(selected){
+  if(selected=="7"){
+    var since = endTime - microsecondsPerWeek;
+  }
+  if(selected=="30"){
+    var since = endTime - (4*microsecondsPerWeek);
+  }
+  if(selected=="90"){
+    var since = 0;
+  }
+  buildHistory(since);
 }
+
+function buildHistory(since){
+  var itemsChecked = 0; // Number of requests to process
+
   chrome.history.search({
     'text': '',       // Return every history item....
-    'startTime': since,   // that was accessed less than one week ago.
+    'startTime': since,   // set start time to scrape browing history
+    'endTime': endTime,  // set endTime to today
     'maxResults':0
   },
  function(historyItems) {
@@ -112,31 +71,25 @@ function buildHistory(createDOM){
       if ((domain != null) && (domain.length > 1) && (URLinArray === 1) ) {
           var fetchVisitsWithUrl = function(url) {
             return function(visitItems) {
-              //fetchVisits(tempurl, visitItems, item, since);
               fetchVisits(url, visitItems);
-/*                if (!--numRequestsOutstanding) {
-                onAllVisitsProcessed();
-              }  */
             };
-          }
+          };
           chrome.history.getVisits({url: url},fetchVisitsWithUrl(url));
-          numRequestsOutstanding++;
+          itemsChecked++;
       }
     }
 
-    if (!numRequestsOutstanding) {
+    if (!itemsChecked) {
       onAllVisitsProcessed();
     }
 
   }); 
 
-
   // Array to log and count number of visits per item visited  
   var list = {
     "visitItems": 0,
     "topUrls": [],
-    "topDomains": [],
-    "alignmentScores": []
+    "topDomains": []
   }
 
   // Array to hold counter number of visits per URL, domain and alignment
@@ -144,18 +97,9 @@ function buildHistory(createDOM){
   var DomainCount = [];
   var alignmentCount = [];
 
-  var scoreTotal = 0; 
-
   var fetchVisits = function(url, visitItems) {
     var domain = extractHost(url);
     var alignment = getAlignment(domain);
-    
-/*     for (var i = 0, ie = visitItems.length; i < ie; ++i) {
-      console.log(visitItems.length);
-      // Dont count pages that are reloaded to avoid jacking up numbers  
-      if (visitItems[i].transition == 'reload') {
-        continue;
-      }   */
 
       // Count instance of each URL visit 
       if (!URLCount[url]) {
@@ -173,20 +117,15 @@ function buildHistory(createDOM){
       if (!alignmentCount[alignment]){
         alignmentCount[alignment] = 0 ;
       }
-       alignmentCount[alignment]++;
+      alignmentCount[alignment]++;
 
-       // Get running total of alignment score count to be used later
-       scoreTotal ++;
-       list.visitItems++;
-
-   // }
-   
-    // If this is the final outstanding call to fetchVisits(),
-    // then we have the final results.  Use them to build the list
-    // of URLs to show in the popup.
-    if (!--numRequestsOutstanding) {
+      list.visitItems++;
+  
+    // If no items left, start building DOM
+    if (!--itemsChecked) {
       onAllVisitsProcessed();
     }
+    return;
   };
 
   var onAllVisitsProcessed = function() {
@@ -197,11 +136,11 @@ function buildHistory(createDOM){
     // Create array of top URLs
     var urlArr = [];
     for (var url in URLCount) {
-      urlArr.push([ url, URLCount[url] ]);
+      var domain = extractHost(url);
+      urlArr.push([domain, url, URLCount[url]]);
     }
     urlArr.sort(sortBySecondPosition);
     list.topUrls = urlArr.slice(0,1000);
-    //console.log(list.topUrls);
 
     // Create array of top domains
     var domainArr = [];
@@ -210,22 +149,17 @@ function buildHistory(createDOM){
       domainArr.push([ domain, DomainCount[domain], alignment ]);
     }
     domainArr.sort(sortBySecondPosition);
-    console.log(domainArr);
     list.topDomains = domainArr.slice(0,1000);
-    console.log(list.topDomains);
 
-    //Array to hold alignment count plus percentage
+    //Array to hold alignment count 
     var alignmentArr = [];
-    // Loop to get each Score and add to alignment array
     for (var alignment in alignmentCount) {
       alignmentArr.push([ alignment, alignmentCount[alignment]]);
     }
+    
     getRecommenderData(alignmentArr);
-    buildPie(alignmentArr,scoreTotal);
-    alignmentArr.sort(sortBySecondPosition);
-    list.alignmentScores = alignmentArr.slice(0,5);
-
-    createDOM(list);
+    buildPie(alignmentArr);
+    buildCharts(list);
   };
 
   return list;
@@ -259,21 +193,23 @@ function getAlignment(nameKey){
   }
 } 
 
-// Callback that creates and populates a data table,
-// instantiates the pie chart, passes in the data and
-// draws it.
-function buildPie(alignmentArr, scoreTotal){
+// Callback that creates and populates the DataTable and PieChart
+function buildPie(alignmentArr){
+
+   //Get the alignment score count from the alignment array
+   var values = alignmentArr.map(function(arr) { return arr[1]; });
+   var arrSum = values.reduce((a, b) => a + b, 0)
+
     var chartDataArr = [];
     var chartLabelArr = [];
     
       for (var x = 0; x < 5; x++) { 
-        var percentScore = Math.round((alignmentArr[x][1]/scoreTotal)*100);
-        console.log(alignmentArr[x][1]+ " is " +percentScore+ "% of " +scoreTotal);
+        var percentScore = Math.round((alignmentArr[x][1]/arrSum)*100);
         chartDataArr.push(percentScore);
         chartLabelArr.push(alignmentArr[x][0]);   
       }
-
-  var ctx = document.getElementById('pieChart').getContext('2d');
+  
+    var ctx = document.getElementById('pieChart').getContext('2d');
  
     // Config for Pie Chart
     var pieChart = new Chart(ctx,{
@@ -329,6 +265,7 @@ function buildCharts(list){
   
   $(document).ready(function() {
     $('#history-chart').DataTable( {
+      "order": [[1, "desc"]],
       data: TopDomainsDataSet,
       columns: [
         { title: "Most Visited Domains" },
@@ -339,52 +276,4 @@ function buildCharts(list){
   });  
 } 
 
-
-/*   $(function() {
-    $(".tabs").click(function() {
-        var source = $(this).data("source");
-        var tableId = $(this).data("table");
-        initiateTable(tableId, source);
-    });
-
-  function buildCharts(list){
-
-    var TopDomainsDataSet = list.topDomains;
-    var TopURLsDataSet = list.topUrls;
-    var TopAlignment = list.alignmentScores
-    
-    $(document).ready(function() {
-      $('#history-chart').DataTable( {
-        data: TopDomainsDataSet,
-        columns: [
-          { title: "Most Visited Domains" },
-          { title: "Visit Count" }
-        ]
-      } );
-    });  
-  } 
-
-  $(function() {
-    $(".tabs").click(function() {
-        var source = $(this).data("source");
-        var tableId = $(this).data("table");
-        initiateTable(tableId, source);
-    });
-function initiateTable(tableId, source) {
-        var table = $("#" + tableId).DataTable({
-            "ajax": source,
-            order: [],
-            columnDefs: [{
-                orderable: false,
-                targets: [0]
-            }],
-            "destroy": true,
-            "bFilter": true,
-            "bLengthChange": false,
-            "bPaginate": false
-        });
-    }
-    initiateTable("customers-table", "customers.json");
-    $("#dynamic-tabs").tabs();
-}); */
 
