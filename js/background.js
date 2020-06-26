@@ -134,6 +134,8 @@ function buildHistory(since){
       return b[1] - a[1];
     }
     // Create array of top URLs
+    // urlArr not yet used on current deBubblr. 
+    // For possible extension breaking down each domain visit to URLs
     var urlArr = [];
     for (var url in URLCount) {
       var domain = extractHost(url);
