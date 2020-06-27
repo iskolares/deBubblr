@@ -13,8 +13,14 @@ if (document.URL.indexOf("popup.html") < 0) {
         });
     }
 
-    var select = document.querySelector("select.history-range-class");
-    var selected = localStorage.getItem('select');
+    var select = document.getElementById('history-range');
+
+    if (!localStorage.getItem('select'))
+        var selected = "7";
+
+    else
+        var selected = localStorage.getItem('select');
+
     if (selected) {
         select.value = selected;
         setTimeVariable(selected);
@@ -36,18 +42,8 @@ function setTimeVariable(selected) {
     if (selected == "7") {
         var since = endTime - microsecondsPerWeek;
     }
-<<<<<<< Updated upstream
-    // Create array of top URLs
-    // urlArr not yet used on current deBubblr. 
-    // For possible extension breaking down each domain visit to URLs
-    var urlArr = [];
-    for (var url in URLCount) {
-      var domain = extractHost(url);
-      urlArr.push([domain, url, URLCount[url]]);
-=======
     if (selected == "30") {
         var since = endTime - (4 * microsecondsPerWeek);
->>>>>>> Stashed changes
     }
     if (selected == "90") {
         var since = 0;
@@ -108,7 +104,6 @@ function buildHistory(since) {
         var domain = extractHost(url);
         var alignment = getAlignment(domain);
 
-        console.log(domain + " " + alignment);
         // Count instance of each URL visit 
         if (!URLCount[url]) {
             URLCount[url] = 0;
@@ -168,30 +163,16 @@ function buildHistory(since) {
             ["RIGHT", 0]
         ];
 
-        console.log(alignmentCount);
-
         for (var alignment in alignmentCount) {
-            console.log(alignment);
             for (var x = 0; x < alignmentArr.length; x++) {
                 var tempAlign = alignmentArr[x][0];
                 if (alignment == tempAlign) {
-                    console.log("match");
+                    alignmentArr[x].splice(1, 1, alignmentCount[alignment]);
                     break;
                 } else
-                    console.log("No!");
-
-                // AlignmentArr holds temp 0 values for all alignment
-                // loop through alignmentCount array
-                // check if every alignmentCount Array items matches AlignmentArr
-                // if match, replace value of corresponding alignment on AlignmentArr
-
+                    continue;
             }
-
-            // if (alignmentArr.includes(alignment))
-            //alignmentArr.push([alignment, alignmentCount[alignment]]);
         }
-
-        console.log(JSON.stringify(alignmentArr));
 
         getRecommenderData(alignmentArr);
         buildPie(alignmentArr);

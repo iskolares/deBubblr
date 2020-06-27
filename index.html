@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>deBubblr - Pop that Filter Bubble!</title>
 
-    <script  src="./js/jquery-3.3.1.min.js"></script> 
+    <script src="./js/jquery-3.3.1.min.js"></script>
     <script src="./js/jquery.dataTables.min.js"></script>
     <link rel="stylesheet" href="./css/jquery.dataTables.min.css" />
     <script src="./js/Chart.js"></script>
     <script src="./js/chartjs-plugin-datalabels.min.js"></script>
-    <link rel="stylesheet" href="./css/Chart.css" type="text/css"/>
+    <link rel="stylesheet" href="./css/Chart.css" type="text/css" />
     <link rel="stylesheet" href="./css/style.css" type="text/css">
-    <script src="./js/whitelistscores.js"></script> 
+    <script src="./js/whitelistscores.js"></script>
 </head>
+
 <body>
     <div id="main-container">
         <div class="wrapper">
@@ -32,8 +34,8 @@
                     </div>
 
                     <label>Select Interval:</label>
-                        <select class="history-range-class" id="history-range">
-                        <option value="7" id="currentweek">Current Week</option>
+                    <select class="history-range-class" id="history-range">
+                        <option value="7" id="currentweek" selected="selected">Current Week</option>
                         <option value="30" id="recentmonth">Last 30 days</option>
                         <option value="90" id="allhistory">Last 90 days</option>
                     </select>
@@ -43,13 +45,13 @@
             <div class="box content">
                 <div class="canvas-holder b">
                     <canvas id="pieChart"></canvas>
-                    
+
                 </div>
             </div>
             <div class="box footer">
                 <div class="modal-content">
                     <div class="footer-child">
-                        <p id='deBubblr-message'></p>  
+                        <p id='deBubblr-message'></p>
                         <div class="modal-bottom">
                             <div class="button-wrapper">
                                 <span id="modal-button"></span>
@@ -58,8 +60,7 @@
                     </div>
                     <div class="footer-child">
                         <p style="text-align: right; color: #ffffff; font-weight: 400; font-size: 12px; font-style: italic;">
-                                deBubblr analyses your web browsing history from a set of whitelisted websites to determine the biases of your past news consumption, then it suggests websites from the other sites to
-                                diversify the news you are consuming.
+                            deBubblr analyses your web browsing history from a set of whitelisted websites to determine the biases of your past news consumption, then it suggests websites from the other sites to diversify the news you are consuming.
                         </p>
                     </div>
                 </div>
@@ -68,6 +69,7 @@
     </div>
 </body>
 
-<script  src="./js/background.js"></script>
-<script src="./js/recommender.js"></script> 
-</html> 
+<script src="./js/background.js"></script>
+<script src="./js/recommender.js"></script>
+
+</html>
